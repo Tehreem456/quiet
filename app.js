@@ -18,3 +18,13 @@ App({
       },
     })
   },
+  globalData: {
+    // keepscreenon:false,
+    systeminfo: {},
+    isIPhoneX: false,
+    key: HeWeatherKey,
+    weatherIconUrl: 'https://cdn.heweather.com/cond_icon/',
+    requestUrl: {
+      weatherNow: 'https://devapi.qweather.com/v7/weather/now',
+      weather7d: 'https://devapi.qweather.com/v7/weather/now',
+      weather24h: 'https://devapi.qweather.com/v7/weather/24h',
