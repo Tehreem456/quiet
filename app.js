@@ -28,3 +28,8 @@ App({
       weatherNow: 'https://devapi.qweather.com/v7/weather/now',
       weather7d: 'https://devapi.qweather.com/v7/weather/now',
       weather24h: 'https://devapi.qweather.com/v7/weather/24h',
+      indices1d: 'https://devapi.qweather.com/v7/indices/1d',
+      cityLookUp: 'https://geoapi.qweather.com/v2/city/lookup',
+    },
+  },
+})
