@@ -8,3 +8,13 @@
   ],
   "window": {
     "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#40a7e7",
+    "navigationStyle": "custom",
+    "navigationBarTitleText": "Quiet Weather",
+    "navigationBarTextStyle": "white"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "定位以获取当前位置天气信息"
+    }
+  },
